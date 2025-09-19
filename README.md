@@ -27,3 +27,6 @@ Enter the decoded frame in the input box with each byte separated with a space t
 
 Decoded data are shown in the **CLE**, **ID** and **CRC** boxes.
 Each data is valid if the background is green, otherwise the background turns red.
+
+# I want more!
+You're just one click away : [SHIBBY's Blog (FR)]([https://pages.github.com/](https://blog.shibby.fr/2017/10/alcatel-atr42x-la-resurrection/))
